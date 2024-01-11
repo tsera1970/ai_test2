@@ -1,0 +1,3 @@
+Azure OpenAIサービスでデプロイしたChatGPTモデル呼び出しプログラム
+openAIライブラリの「AzureOpenAI」関数を使用
+JSON形式などの制御は関数がしてくれるので、楽だがAzure API ManagementサービスのAPIを使用していないので、ログが取れない
